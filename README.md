@@ -1,6 +1,6 @@
 
 
-
+Paste app built using React and Vite. It is hosted on vercel at the following domain: https://paste-app-mu-two.vercel.app/
 
 ## Features
 - **Vite**: Ultra-fast development and build tooling.
