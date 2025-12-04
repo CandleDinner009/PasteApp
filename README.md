@@ -1,8 +1,6 @@
 
 
-# React + Vite + TailwindCSS Template
 
-This template provides a minimal setup for building a React application using Vite. It includes Hot Module Replacement (HMR) for fast refresh, Tailwind CSS for utility-first styling, and ESLint for code linting.
 
 ## Features
 - **Vite**: Ultra-fast development and build tooling.
